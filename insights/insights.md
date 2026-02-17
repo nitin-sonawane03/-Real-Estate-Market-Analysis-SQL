@@ -1,0 +1,119 @@
+Real Estate Market Analysis
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q1: What is the revenue contribution (%) of each city to the total market?
+
+Revenue distribution is highly balanced (14.05%–14.43%), indicating strong geographic diversification and minimal concentration risk.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q2: What is the revenue contribution of each property type?
+
+All property types contribute nearly equally (~25%), reflecting stable multi-segment demand without overdependence on a single category.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q3: What are the top 3 most expensive houses in each city?
+
+Luxury pricing converges near ₹500 Lakhs across cities, establishing a clear premium ceiling with Villas and Independent Houses dominating the ultra-premium tier.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q4: What is the premium housing share (>75 Lakhs) in each city?
+
+Over 87% of inventory falls in the premium segment, signaling a strongly upscale market with consistent high-value demand.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q5: Which bedroom configuration generates the highest revenue and market share?
+
+3-bedroom units lead revenue share (17.06%), indicating strong mid-family demand, while closely distributed shares ensure diversified revenue stability.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q6: Which city shows highest price volatility (risk analysis)?
+
+Pune shows marginally higher volatility (~54%), though risk levels remain structurally similar across cities, reflecting balanced market exposure.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q7: Which city offers the best ROI based on average price per sqft?
+
+Delhi commands the highest price per sqft, while Pune delivers the highest ROI (20.54%), indicating superior yield efficiency relative to entry cost.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q8: Identify top 20 underpriced properties compared to city average
+
+Underpriced properties (~92% below city averages) present strong capital appreciation opportunities across multiple cities and asset classes.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q9: What is the parking price premium (%) by property type?
+
+Independent Houses command the highest parking premium (+1.23%), while negative premiums in Villas and Builder Floors indicate limited pricing differentiation.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q10: What is the furnishing price premium percentage?
+
+The negative furnishing premium (-0.82%) suggests buyers prioritize base property value over furnished add-ons, reflecting customization preference.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q11: How does property age impact pricing across cities?
+
+Pricing leadership varies by city—Moderate properties lead in some markets, New units in others, and Old properties in select cities—highlighting localized valuation dynamics.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q12: What is the dominant property type in each city?
+
+Low-density formats dominate most cities, though select markets show diversified dominance, reflecting city-specific housing preferences.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q13: What percentage of houses are large (>1500 sqft) in each city?
+
+Nearly 69% of inventory consists of large homes, indicating strong structural preference for spacious residential formats.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q14: Which city has the highest luxury house density (>1 Crore)?
+
+Luxury density is evenly distributed, with marginal leadership in select cities, reflecting widespread high-net-worth demand across markets.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q15: Which cities offer the best opportunity for affordable housing (<40 Lakhs)?
+
+Hyderabad leads in affordable availability (15.24%), though all cities maintain moderate entry-level presence, supporting balanced expansion potential.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q16: Which city has the highest average price per bedroom (value efficiency analysis)?
+
+Delhi achieves the highest per-bedroom value realization, indicating stronger monetization efficiency with minimal cross-city disparity.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q17: What is the price growth gap between Near (0–5 km) and Far (>15 km) properties?
+
+Minimal price and growth gap suggests balanced urban expansion without extreme centralization premiums.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q18: Which property type dominates revenue within each city?
+
+Revenue dominance varies by city, reinforcing localized demand concentration and city-specific investment positioning.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q19: Which cities have above-average price per sqft compared to overall market?
+
+Delhi demonstrates the strongest pricing premium over the market average, while other cities operate marginally above benchmark levels.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Q20: Identify cities with balanced market (low volatility + high revenue)
+
+Bangalore emerges as the most balanced market, combining lowest volatility with strong revenue performance, indicating sustainable risk-adjusted returns.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+Overall Strategic Conclusion :
+
+The real estate market demonstrates strong structural stability supported by balanced revenue distribution across cities, reducing geographic concentration risk. Premium housing dominates the market, with over 87% 
+
+of properties positioned above ₹75 Lakhs, indicating sustained high-value demand. Despite this premium concentration, revenue contribution remains evenly distributed across property types, reflecting diversified 
+
+segment strength.
+
+Volatility levels across cities remain controlled, highlighting manageable investment risk and stable market behavior. ROI analysis reveals city-specific advantages, with Delhi leading in pricing power while Pune 
+offers stronger yield efficiency. The presence of underpriced properties suggests capital appreciation opportunities across multiple markets.
+
+Overall, the ecosystem reflects diversified demand, controlled risk exposure, and city-specific investment dynamics—indicating a mature, stable, and opportunity-rich residential real estate market.
